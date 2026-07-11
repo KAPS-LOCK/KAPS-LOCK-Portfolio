@@ -10,13 +10,13 @@ index.html            → hero + Active Roster (the whole landing page)
 style.css              → all styles for every page
 script.js               → tiny script, just fills in the footer's year
 members/
-  rho.html
-  8bit.html
-  vellichor.html
-  kernel.html
-  moth.html
-  ferro.html
-  juniper.html
+  arushi.html
+  kanishk.html
+  parth.html
+  pratima.html
+  shuhsank.html
+  sujat.html
+  tanvi.html
   template.html        → blank starting point for a new member
 ```
 
