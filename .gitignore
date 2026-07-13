@@ -1,0 +1,8 @@
+# Build output — regenerated from content/projects/*.md by tools/generate.js
+# (Vercel runs this on every deploy; run it locally only if you want a preview).
+/projects/
+/content/projects.json
+/sitemap.xml
+
+# Vercel
+.vercel/
