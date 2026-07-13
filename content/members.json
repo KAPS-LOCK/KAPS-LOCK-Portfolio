@@ -1,0 +1,29 @@
+[
+  {
+    "order": 1,
+    "photo": "https://avatars.githubusercontent.com/u/157830580?v=4",
+    "penName": "Sujatx",
+    "realName": "Sujat Khan",
+    "role": "Software Developer & Designer",
+    "bio": "Software developer and designer by day. Fiction reader by night. Somewhere in between is where I live.",
+    "portfolio": "https://www.sujatkhan.me/"
+  },
+  {
+    "order": 2,
+    "photo": "images/members/wintyr.jpg",
+    "penName": "WINTYR",
+    "realName": "Pratima Narang",
+    "role": "Cybersecurity Engineer",
+    "bio": "Trusts the compiler more than people. Makes undefined behavior someone else's problem.",
+    "portfolio": null
+  },
+  {
+    "order": 3,
+    "photo": "https://avatars.githubusercontent.com/u/229342992?v=4",
+    "penName": "vellichor",
+    "realName": "Parth Gupta",
+    "role": "Software Developer",
+    "bio": "College student on the path to becoming a software developer, based in Delhi. Software development is an art.",
+    "portfolio": "https://parthgupta45.vercel.app/"
+  }
+]
