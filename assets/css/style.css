@@ -110,16 +110,25 @@ img {
   justify-content: space-between;
 }
 
-.header-github {
+.header-icons {
+  display: inline-flex;
+  align-items: center;
+  gap: 14px;
+}
+
+.header-github,
+.header-linkedin {
   display: inline-flex;
   align-items: center;
   color: var(--ink);
 }
-.header-github svg {
+.header-github svg,
+.header-linkedin svg {
   width: 22px;
   height: 22px;
 }
-.header-github:hover {
+.header-github:hover,
+.header-linkedin:hover {
   color: var(--vintage-accent);
 }
 
