@@ -1,5 +1,18 @@
 {
   "framework": null,
   "buildCommand": "node tools/generate.js",
-  "outputDirectory": "."
+  "outputDirectory": ".",
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "kaps-lock.vercel.app"
+        }
+      ],
+      "destination": "https://kapslock.xyz/$1",
+      "permanent": true
+    }
+  ]
 }

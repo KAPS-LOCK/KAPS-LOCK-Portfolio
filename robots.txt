@@ -1,4 +1,16 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://kaps-lock.vercel.app/sitemap.xml
+User-agent: GPTBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+Sitemap: https://kapslock.xyz/sitemap.xml
