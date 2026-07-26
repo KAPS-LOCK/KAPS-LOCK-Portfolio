@@ -14,7 +14,7 @@ const fs = require("fs");
 const path = require("path");
 
 const ROOT = path.join(__dirname, "..");
-const SITE = "https://kaps-lock.vercel.app";
+const SITE = "https://kapslock.xyz";
 const CONTENT_DIR = path.join(ROOT, "content", "projects");
 const OUT_DIR = path.join(ROOT, "projects");
 const MEMBERS_FILE = path.join(ROOT, "content", "members.json");
