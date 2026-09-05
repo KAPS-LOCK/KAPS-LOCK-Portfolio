@@ -34,5 +34,14 @@
     "role": "Software Developer",
     "bio": "Making things that are beneficial for both you and me.",
     "portfolio": "https://arushiport.netlify.app/"
+  },
+  {
+    "order": 5,
+    "photo": "images/placeholder.png",
+    "penName": "Kanishk",
+    "realName": "Kanishk",
+    "role": "Software Developer & Security Engineer",
+    "bio": "Building IncidentX — a competitive production-debugging arena.",
+    "portfolio": "https://kanishk-kumar.vercel.app/"
   }
 ]
